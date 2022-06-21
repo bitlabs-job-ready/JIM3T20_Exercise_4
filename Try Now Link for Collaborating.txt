@@ -1,0 +1,11 @@
+Exercise 1:
+Create a new repository named "Git_Exercise_1" with a readme file in the repository, use the following instructions:
+
+1. Clone the link in the Git Bash
+2. Add 2 different Java files using the add command
+3. Check the status of the directory
+4. Commit the files after adding them to the repository
+5. Fetch all the branches simultaneously
+6. Modify one of the files and pull the file from the origin 
+
+Note: Kindly copy all the code from the Git Bash and paste it here.
